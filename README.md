@@ -1,2 +1,2 @@
-# Virtual automated assistant 
-This a virtual assistant made using python which works on voice commands
+# Python Scripts
+Here are various useful python scripts which are helpful in daily life
